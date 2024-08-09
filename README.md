@@ -12,3 +12,5 @@ Info: Clean will save the mods into an secondary folder
 
 Program in action:      
 ![gta5-cleaner](https://github.com/user-attachments/assets/35693a70-53d1-4ac6-bf14-6f7ecb927e09)
+
+Step 4. Once the process is completed, press any key to exit the tool and open the game normally
